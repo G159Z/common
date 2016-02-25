@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/gz/mie-android/common/src/main/res"><file name="ic_launcher" path="/home/gz/mie-android/common/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/gz/mie-android/common/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file path="/home/gz/mie-android/common/src/main/res/values/strings.xml" qualifiers=""><string name="release_to_refresh">松开刷新</string><string name="app_name">Common</string><string name="refreshing">正在刷新</string><string name="pull_to_refresh">下拉刷新</string></file><file path="/home/gz/mie-android/common/src/main/res/values/dimens.xml" qualifiers=""><dimen name="water_drop_height">80dp</dimen><dimen name="footer_height">60dp</dimen><dimen name="default_header_height">60dp</dimen><dimen name="rain_drop_header_total_height">140dp</dimen><dimen name="water_drop_padding_bottom">5dp</dimen><dimen name="water_drop_width">30dp</dimen><dimen name="water_drop_max_height">120dp</dimen><dimen name="water_drop_border_stroke_width">3dp</dimen></file><file path="/home/gz/mie-android/common/src/main/res/values/colors.xml" qualifiers=""><color name="gray_87">#878787</color><color name="light_blue">#77BCD5</color><color name="pressed_blue">#55C0CE</color><color name="base_blue">#00BCD4</color><color name="switch_baseline_color">#b7b7b7</color><color name="pure_white">#FFFFFF</color><color name="gray_f3">#f3f3f3</color><color name="gray_4d">#4d4d4d</color><color name="black_00_20">#30000000</color><color name="actionbar_select_mask">#30000000</color><color name="water_drop_fill_color">#60ffffff</color><color name="gray_c7">#c7c7c7</color><color name="gray_d8">#D8D8D8</color><color name="article_header_bg_mask">#503d3d3d</color><color name="category_header_bg_mask">#303d3d3d</color><color name="water_drop_border_color">#666666</color><color name="pure_black">#000000</color><color name="gray_fa">#FAFAFA</color><color name="white_80">#C0FFFFFF</color><color name="gray_ec">#ececec</color><color name="gray_d8_20">#30D8D8D8</color><color name="gray_99">#999999</color><color name="dialog_mask">#700d0d0d</color></file><file path="/home/gz/mie-android/common/src/main/res/values/attr.xml" qualifiers=""><declare-styleable name="STextView">
+
+        <attr format="string" name="textFontPath">
+        </attr>
+
+        <!--<attr name="lineNum" format="integer"/>-->
+        <!--<attr name="flow_efficient_mode" format="boolean"/>-->
+
+    </declare-styleable><declare-styleable name="SEditText">
+
+        <attr format="string" name="fontPath">
+        </attr>
+
+        <!--<attr name="lineNum" format="integer"/>-->
+        <!--<attr name="flow_efficient_mode" format="boolean"/>-->
+
+    </declare-styleable></file><file name="ic_launcher" path="/home/gz/mie-android/common/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/gz/mie-android/common/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/></source><source path="/home/gz/mie-android/common/build/generated/res/rs/debug"/><source path="/home/gz/mie-android/common/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/home/gz/mie-android/common/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="STextView"><attr format="string" name="textFontPath"/></declare-styleable><declare-styleable name="SEditText"><attr format="string" name="fontPath"/></declare-styleable></configuration></mergedItems></merger>

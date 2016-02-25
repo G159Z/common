@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="STextView">
+
+        <attr name="textFontPath" format="string">
+        </attr>
+
+        <!--<attr name="lineNum" format="integer"/>-->
+        <!--<attr name="flow_efficient_mode" format="boolean"/>-->
+
+    </declare-styleable>
+    <declare-styleable name="SEditText">
+
+        <attr name="fontPath" format="string">
+        </attr>
+
+        <!--<attr name="lineNum" format="integer"/>-->
+        <!--<attr name="flow_efficient_mode" format="boolean"/>-->
+
+    </declare-styleable>
+
+
+
+</resources>
